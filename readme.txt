@@ -2,4 +2,8 @@
 º¢×Ó °ÖÂè Ç×°®µÄËı
 1111111
 change master to dev
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
